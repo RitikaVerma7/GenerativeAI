@@ -9,7 +9,7 @@ NextNest Finder is a relocation application that helps users find houses and car
 - Personalized recommendations based on user preferences.
 
 ## Demo
-![Example Image]https://github.com/RitikaVerma7/GenerativeAI/blob/main/Lease%20Recommendation/2024-05-05%2020.17.38.gif
+![Alt text for GIF](https://github.com/RitikaVerma7/GenerativeAI/blob/main/Lease%20Recommendation/2024-05-05%2020.17.38.gif)
 
 ## Tech Stack
 - Streamlit
