@@ -14,5 +14,6 @@ NextNest Finder is a relocation application that helps users find houses and car
 ## Tech Stack
 - Streamlit
 - Pinecone
-- OpenAI Embedding
+- OpenAI API
+- LangChain
 - OpenAI Augmentation
