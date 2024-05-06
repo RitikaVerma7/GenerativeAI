@@ -1,4 +1,3 @@
-# Generative AI 
 
 Welcome to my Generative AI Portfolio, a compilation of projects and hands-on experiences. This portfolio reflects my in-depth understanding and application of Generative AI technologies and techniques.
 
