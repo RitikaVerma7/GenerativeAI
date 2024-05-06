@@ -1,34 +1,24 @@
+# Cybersecurity Remediation and Compliance (Ongoing)
 
-Welcome to my Generative AI Portfolio, a compilation of projects and hands-on experiences. This portfolio reflects my in-depth understanding and application of Generative AI technologies and techniques.
+Cybersecurity Remediation and Compliance is an application designed to enhance security measures and ensure regulatory compliance through advanced Retrieval Augmented Generation (RAG). This system uses a sophisticated model to automate security remediation tasks and provide real-time updates on vulnerabilities and standards, helping companies stay compliant and secure.
 
-## Generative AI Skills
+## Features
+- **Automated Security Remediation**: Automates remediation processes, ensuring that each action is comprehensive and crafted based on the internal knowledge base.
+- **Prioritized Remediation Actions**: Provides prioritized remediation actions, categorizing them by the severity and potential impact of each vulnerability.
+- **Real-Time Updates**: Keeps the company ahead with real-time updates on the latest security vulnerabilities and compliance standards.
+- **Personalized Compliance Suggestions**: Tailors every remediation or compliance suggestion to the company’s current infrastructure, enhancing accuracy and relevance.
 
-### Generative AI and Large Language Models (LLMs)
-- Learned foundations and lifecycle of AI projects.
-- Worked with OpenAI's GPT models to develop text generation prototypes for business applications.
+## Benefits
+- **Improve Efficiency**: Reduces manual effort and decreases the mean time to respond to incidents, streamlining security operations.
+- **Enhance Accuracy**: Offers precise remediation tailored to the specific needs and infrastructure of the company.
+- **Compliance Assurance**: Ensures that the company’s infrastructure remains compliant with all relevant industry standards, minimizing risk and potential penalties.
 
-### Prompt Engineering
-- Explored the anatomy of prompts and techniques for enhanced AI responses.
-- Designed prompts to optimize chatbot performance in customer service scenarios.
+## Demo
+![Alt text for GIF](https://github.com/RitikaVerma7/GenerativeAI/blob/main/Cybersecurity%20Recommendation%20%26%20Compliance/2024-05-05%2022.08.38.gif)
 
-### Vector Databases
-- Studied the architecture and importance of vector databases in AI.
-- Implemented Chroma and Pinecone databases for a dynamic content recommendation system.
-
-### LangChain – An Orchestration Tool
-- Learned to use LangChain for efficient AI solution orchestration.
-- Developed an application integrating various AI services using LangChain.
-
-### Developing AI Applications for Enterprise
-- Focused on building scalable enterprise-level AI applications.
-- Created applications using real-time data processing and AI for decision support in business environments.
-
-### Generative AI Project
-- Cybersecurity Complaince & Remediation (On-going)
-- Lease Recommendation RAG
-
-### Technology Stack
-- **Frontend Technologies**: Streamlit, Gradio
-- **AI and Machine Learning**: OpenAI API, LangChain, Vector Databases (Pinecone, MongoDB, Chroma DB)
-- **APIs**:OpenAI, Serp API
-- **Programming Languages**: Python
+## Tech Stack
+- Streamlit
+- Pinecone
+- OpenAI API
+- LangChain
+- OpenAI Augmentation
