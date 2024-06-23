@@ -25,6 +25,7 @@ Welcome to my Generative AI Portfolio, a compilation of projects and hands-on ex
 
 ### Generative AI Project
 - Cybersecurity Complaince & Remediation (On-going)
+- Chatbot RAG with Evaluation Techniques
 - Lease Recommendation RAG
 
 ### Technology Stack
