@@ -54,6 +54,6 @@
 - **Applications**: Used in tasks requiring high accuracy and context, such as customer support, research, and detailed content creation.
 - **Implementation**: Learn to integrate retrieval mechanisms with generative models to create more informed and contextually accurate outputs.
 
-## 5. Reference Links
+## 5. Helpful Links
 1. [Vectors, tokens, Embedding](https://thenewstack.io/the-building-blocks-of-llms-vectors-tokens-and-embeddings/#:~:text=Embeddings%20are%20high%2Ddimensional%20vectors,generation%2C%20sentiment%20analysis%20and%20more)
 2. [Semantic Search Using Embeddings and Vector Databases](https://medium.com/@pankaj_pandey/exploring-semantic-search-using-embeddings-and-vector-databases-with-some-popular-use-cases-2543a79d3ba6)
