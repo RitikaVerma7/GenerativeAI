@@ -9,7 +9,7 @@ Mood-Based Activity Recommender is a web application that provides activity reco
 - Interactive and user-friendly interface with Streamlit.
 
 ## Demo
-![Demo](https://github.com/yourusername/mood-activity-recommender/demo.gif)
+![Demo](https://github.com/RitikaVerma7/GenerativeAI/blob/main/Mood%20Based%20Activity/2024-07-05%2012.40.40.gif)
 
 ## Tech Stack
 - **Streamlit**: Web framework for creating interactive applications.
@@ -60,4 +60,4 @@ Mood-Based Activity Recommender is a web application that provides activity reco
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome!
