@@ -1,3 +1,4 @@
+
 # Mood-Based Activity Recommender
 
 Mood-Based Activity Recommender is a web application that provides activity recommendations based on the user's mood. It is built using generative AI technology and runs on Streamlit. The application processes PDF files for enhanced retrieval and utilizes OpenAI's GPT models for generating personalized activity suggestions.
@@ -6,25 +7,26 @@ Mood-Based Activity Recommender is a web application that provides activity reco
 
 The repository is organized into the following folders:
 
-- **code**: Contains `app.py`, `requirements.txt` and other dependencies to run the application using Streamlit.
-
+- **code**: Contains `app.py`, `requirements.txt`, and other dependencies to run the application using Streamlit.
 
 ## Features
+
 - Generate personalized activity recommendations based on user mood.
 - Upload and process PDF files to extract text and create a vector store.
 - Set up a conversational retrieval chain for document interaction.
 - Interactive and user-friendly interface with Streamlit.
 
 ## Demo
+
 ![Demo](https://github.com/RitikaVerma7/GenerativeAI/blob/main/Mood%20Based%20Activity/2024-07-05%2012.40.40.gif)
 
 ## Tech Stack
+
 - **Streamlit**: Web framework for creating interactive applications.
 - **LangChain**: Framework for building applications with language models.
 - **OpenAI API**: Language model for generating text and embeddings.
 - **FAISS**: Library for efficient similarity search and clustering.
 - **PyPDF2**: Library for reading PDF files.
-
 
 ## Usage
 
@@ -67,4 +69,8 @@ The repository is organized into the following folders:
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs or feature requests.
+
+## License
+
+This project is licensed under the MIT License.
