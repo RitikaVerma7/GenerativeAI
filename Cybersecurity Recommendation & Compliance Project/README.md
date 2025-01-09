@@ -1,4 +1,4 @@
-# Cybersecurity Remediation and Compliance (Ongoing)
+# Cybersecurity Remediation and Compliance
 
 Cybersecurity Remediation and Compliance is an application designed to enhance security measures and ensure regulatory compliance through advanced Retrieval Augmented Generation (RAG). This system uses a sophisticated model to automate security remediation tasks and provide real-time updates on vulnerabilities and standards, helping companies stay compliant and secure.
 
